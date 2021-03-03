@@ -12,7 +12,7 @@ Or launch the demo on a free Heroku instance.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Getting Started
+## Getting Started!
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
